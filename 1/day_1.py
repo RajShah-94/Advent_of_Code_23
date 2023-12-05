@@ -49,3 +49,4 @@ def read_file():
 if __name__ == '__main__':
     solve_part_1()
     solve_part_2()
+
